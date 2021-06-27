@@ -2,7 +2,7 @@
 
 The Love Running website is an imagined website provided for a local running community. The site contains basic information for runners who may wish to drop in for a run or a social meetup at specific times and locations. The site also provides links to any additional social media presence the running group might have.
 
-![Responsive Mockup](https://github.com/lucywoodman/love-running/blob/master/assets/images/screenshot.png)
+![Responsive Mockup](https://github.com/lucywoodman/love-running/blob/master/assets/images/mockup.png)
 
 ## Features 
 
