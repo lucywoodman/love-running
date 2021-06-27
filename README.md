@@ -2,7 +2,7 @@
 
 The Love Running website is an imagined website provided for a local running community. The site contains basic information for runners who may wish to drop in for a run or a social meetup at specific times and locations. The site also provides links to any additional social media presence the running group might have.
 
-![Responsive Mockup](https://github.com/lucywoodman/love-running/blob/master/images/screenshot.png)
+![Responsive Mockup](https://github.com/lucywoodman/love-running/blob/master/assets/images/screenshot.png)
 
 ## Features 
 
@@ -57,12 +57,6 @@ The Love Running website is a responsive website. That means that the site will 
 
 The site was deployed to GutHub pages. The live link can be found here - https://lucywoodman.github.io/love-running/
 
-## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
-### Content 
+## Credits  
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
